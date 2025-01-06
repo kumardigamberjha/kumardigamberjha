@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Django+%26+React+Expert;Cloud+Enthusiast+%F0%9F%9A%80;Content+Creator+%40CodingIndia;Passionate+about+Learning+%26+Building+Tech+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Django+%26+React+Expert;Cloud+Enthusiast+%F0%9F%9A%80;Content+Creator+%40CodingIndia;Passionate+about+Learning+%26+Building+Tech+Solutions" />
 </p>
 
 <p align="center">
