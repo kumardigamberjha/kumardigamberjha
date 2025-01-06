@@ -14,16 +14,41 @@
 
 <h2 align="center">🌟 About Me</h2>
 <p align="center">
-  🚀 Full-stack developer specializing in **Django**, **React**, and **Cloud Solutions**.<br>
-  🎥 Content creator at [Coding India](https://www.youtube.com/channel/UCa9umers8bWGpy7xJ1J3wUw).<br>
-  🌱 Currently diving into **Machine Learning** and **Generative AI**.<br>
+  🚀 Full-stack developer specializing in <strong>Django</strong>, <strong>React</strong>, and <strong>Cloud Solutions</strong>.<br>
+  🎥 Content creator at <strong>Coding India</strong> (https://www.youtube.com/channel/UCa9umers8bWGpy7xJ1J3wUw).<br>
+  🌱 Currently diving into <strong>Machine Learning</strong> and <strong>Generative AI</strong>.<br>
   ✨ Believe in continuous learning and sharing knowledge with others.<br>
 </p>
 
 <h2 align="center">🛠️ Tools & Technologies</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,tailwind,mysql,postgresql,aws,docker,git,vscode,github&perline=7&theme=light" />
-</p>
+
+<table align="center" width="80%">
+  <tr>
+    <th align="center">🌐 Frontend</th>
+    <th align="center">⚙️ Backend</th>
+    <th align="center">💾 Databases</th>
+    <th align="center">☁️ Cloud & DevOps</th>
+    <th align="center">🛠️ Other Tools</th>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,django,graphql" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,vscode,github" />
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
