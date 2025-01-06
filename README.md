@@ -32,7 +32,7 @@
   </tr>
   <tr align="center">
     <td>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,ajax" />
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,django" />
