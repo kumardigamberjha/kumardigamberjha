@@ -1,4 +1,4 @@
-<!-- GitHub README -->
+
 <h1 align="center">
   Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
   I'm <span style="color:#3498db; font-weight:bold;">Digamber Jha</span>
