@@ -32,16 +32,16 @@
   </tr>
   <tr align="center">
     <td>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,ajax" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,django,graphql" />
+      <img src="https://skillicons.dev/icons?i=python,django" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker" />
+      <img src="https://skillicons.dev/icons?i=aws" />
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,vscode,github" />
