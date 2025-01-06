@@ -15,7 +15,7 @@
 <h2 align="center">🌟 About Me</h2>
 <p align="center">
   🚀 Full-stack developer specializing in <strong>Django</strong>, <strong>React</strong>, and <strong>Cloud Solutions</strong>.<br>
-  🎥 Content creator at <strong>Coding India</strong> (https://www.youtube.com/channel/UCa9umers8bWGpy7xJ1J3wUw).<br>
+  🎥 Content creator at <strong>Coding India</strong> (https://www.youtube.com/channel/UCa9umeRS8bWgPy7XJ1j3WUw).<br>
   🌱 Currently diving into <strong>Machine Learning</strong> and <strong>Generative AI</strong>.<br>
   ✨ Believe in continuous learning and sharing knowledge with others.<br>
 </p>
