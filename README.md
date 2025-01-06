@@ -48,20 +48,3 @@
     </td>
   </tr>
 </table>
-
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumardigamberjha&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=kumardigamberjha&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<h2 align="center">🏆 Top Projects</h2>
-<p align="center">
-  <a href="https://github.com/your-github-username/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-1&theme=radical" width="48%" />
-  </a>
-  <a href="https://github.com/your-github-username/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-2&theme=radical" width="48%" />
-  </a>
-</p>
