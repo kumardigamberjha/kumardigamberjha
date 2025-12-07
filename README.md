@@ -5,20 +5,20 @@
 
 <p align="center">
   <a href="https://codingindia.co.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498db&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(Django+%2B+React);AI%2FML+Enthusiast+%26+FastAPI+Learner;Founder+of+Coding+India;Creator+@+Time+Travel+Through+India;Building+Next-Gen+Tech+@+Aviox+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498db&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+(Django+%2B+React);AI%2FML+Enthusiast+%26+FastAPI+Learner;Founder+of+Coding+India;Passionate+Educator+%26+Mentor;Always+Building+Something+New" alt="Typing SVG" />
   </a>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I am a <strong>Full Stack Developer</strong> based in <strong>Jalandhar, Punjab</strong> with over <strong>3 years of experience</strong> building scalable web applications. Currently, I am working at <strong>Aviox Technologies</strong> while transitioning into <strong>AI, Machine Learning, and Computer Vision</strong>.
+  I am a <strong>Full Stack Developer</strong> based in <strong>Jalandhar, Punjab</strong> with over <strong>3 years of experience</strong> building scalable web applications. I specialize in backend architecture and modern frontend interfaces.
 </p>
 
 <p align="center">
-  🔭 <strong>Current Focus:</strong> Mastering <strong>FastAPI, OpenCV,</strong> and integrating <strong>Generative AI</strong> into full-stack apps.<br/>
-  🎥 <strong>Content Creation:</strong> I run two YouTube channels focusing on Tech Education and Indian History.<br/>
-  🌱 <strong>Goal:</strong> Building portfolio projects combining Django + React + ML.
+  🔭 <strong>Current Focus:</strong> Transitioning into <strong>AI, Machine Learning, and Computer Vision</strong> (OpenCV & FastAPI).<br/>
+  🎥 <strong>Content Creation:</strong> I run <strong>Coding India</strong>, a YouTube channel dedicated to coding tutorials, tech news, and developer tips.<br/>
+  🌱 <strong>Goal:</strong> Building strong portfolio projects combining Django + React + ML.
 </p>
 
 <p align="center">
@@ -58,28 +58,17 @@
 
 <hr/>
 
-<h2 align="center">🎥 My Content</h2>
+<h2 align="center">🎥 Coding India</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <th align="center" width="50%">💻 Coding India</th>
-    <th align="center" width="50%">UI Time Travel Through India</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <em>Coding tutorials, Tech News Shorts & Developer tips.</em><br/><br/>
-      <a href="https://www.youtube.com/@CodingIndia" target="_blank">
-        <img src="https://img.shields.io/badge/Subscribe-Red?style=for-the-badge&logo=youtube&logoColor=white" alt="Coding India"/>
-      </a>
-    </td>
-    <td align="center">
-      <em>Exploring Hindu gods, sculptures & Indian history.</em><br/><br/>
-      <a href="https://www.youtube.com/@TimeTravelThroughIndia" target="_blank">
-        <img src="https://img.shields.io/badge/Watch_Now-FF8C00?style=for-the-badge&logo=youtube&logoColor=white" alt="Time Travel Through India"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <em>Coding tutorials, Tech News Shorts & Developer tips.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@CodingIndia" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-Red?style=for-the-badge&logo=youtube&logoColor=white" alt="Coding India"/>
+  </a>
+</p>
 
 <hr/>
 
