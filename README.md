@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="margin-top: 0;">Hi, I'm <span style="color:#00D4FF;">Digamber Jha</span></h1>
-  <code>// AI APPLICATION ARCHITECT & FOUNDER</code>
+  <code>AI APPLICATION ARCHITECT & FOUNDER</code>
 </div>
 
 <p align="center">
@@ -8,13 +8,13 @@
 </p>
 
 <div align="center">
-  <a href="https://yourdomain.com" target="_blank">
+  <a href="https://digamber.codingindia.co.in" target="_blank">
     <img src="https://img.shields.io/badge/SYSTEM_PORTFOLIO-0A1128?style=for-the-badge&logo=vercel&logoColor=00D4FF" />
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@CodingIndiaai" target="_blank">
     <img src="https://img.shields.io/badge/YOUTUBE_NETWORK-0A1128?style=for-the-badge&logo=youtube&logoColor=FF3333" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/digamber-jha-5045221a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/digamber-jha/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN_COMM-0A1128?style=for-the-badge&logo=linkedin&logoColor=00D4FF" />
   </a>
 </div>
