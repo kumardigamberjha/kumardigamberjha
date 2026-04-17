@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="margin-top: 0;">Hi, I'm <span style="color:#00D4FF;">Digamber Jha</span></h1>
-  <code>// AI APPLICATION ARCHITECT & FOUNDER</code>
+  <code>AI APPLICATION ARCHITECT & FOUNDER</code>
 </div>
 
 <p align="center">
