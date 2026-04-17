@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://yourdomain.com"><img src="https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="Portfolio" /></a>
+  <a href="https://digamber.codingindia.co.in"><img src="https://img.shields.io/badge/Portfolio-0A1128?style=for-the-badge&logo=vercel&logoColor=00D4FF" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/digamber-jha"><img src="https://img.shields.io/badge/LinkedIn-0A1128?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@CodingIndiaai"><img src="https://img.shields.io/badge/YouTube-0A1128?style=for-the-badge&logo=youtube&logoColor=FF3333" alt="YouTube" /></a>
 </div>
